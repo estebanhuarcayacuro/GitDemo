@@ -22,6 +22,10 @@ public class SelIntroduction {
 		System.out.println(driver.getCurrentUrl());
 		//driver.close();
 		//driver.quit();
+		
+		System.out.println("postJira");
+		System.out.println("postJira2");
+		System.out.println("postJira3");
 	}
 
 }
